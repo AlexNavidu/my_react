@@ -1,0 +1,11 @@
+{
+"name": "my_react",
+"version": "1.0.0",
+"description": "React_new",
+"main": "index.html",
+"scripts": {
+"start": "node server.js"
+},
+"author": "Alex Borovtsov",
+"license": "MIT"
+}
